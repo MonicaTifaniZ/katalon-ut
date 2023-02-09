@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Head OfficeBalikpapanJakartaLombok O_aafa85 (1)</name>
+   <tag></tag>
+   <elementGuidId>a341c95b-edeb-4108-aa51-1578e54c1a00</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>select.input-select</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__layout']/div/div[2]/div/div/div/div[2]/div/div/div[2]/div/div/div/select</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>8dc75b52-275e-4d6c-9fc9-edc72e6d8112</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>input-select</value>
+      <webElementGuid>479e88e1-b86c-4a14-ae22-587425740576</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Head OfficeBalikpapanJakartaLombok OfficeMalangmondaytester juaraCOBAPapuaSangataMalangZimbabwe</value>
+      <webElementGuid>284a09f8-a9b0-4c24-97cd-13b492cd248e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[@class=&quot;font-mont bg-gry-light min-h-screen&quot;]/div[2]/div[@class=&quot;container mx-auto p-4&quot;]/div[@class=&quot;mt-5&quot;]/div[1]/div[@class=&quot;w-full bg-white rounded-b-lg border-t-2 border-ylw&quot;]/div[@class=&quot;p-6&quot;]/div[1]/div[@class=&quot;flex flex-row gap-8&quot;]/div[@class=&quot;w-1/2&quot;]/div[@class=&quot;mt-3&quot;]/div[@class=&quot;relative h-10&quot;]/select[@class=&quot;input-select&quot;]</value>
+      <webElementGuid>c215cc26-a6ae-423a-b879-38ad4c8f8a75</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/div[2]/div/div/div/div[2]/div/div/div[2]/div/div/div/select</value>
+      <webElementGuid>1e895b34-f446-4e0d-b70d-d1ee22f8f2ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Area'])[1]/following::select[1]</value>
+      <webElementGuid>922fd434-d091-46c2-8099-b6005c65dd8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Feasibility Study'])[1]/following::select[1]</value>
+      <webElementGuid>5e5057dc-723a-4f63-9fcd-4cc1602e248a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Project Name'])[1]/preceding::select[1]</value>
+      <webElementGuid>873118ad-487a-45e9-9f6c-763da7729d1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Project Status'])[1]/preceding::select[1]</value>
+      <webElementGuid>694c3c52-7890-41f9-87e3-2f2cce48044b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>7bc411bd-bb42-4d74-8d71-a0a89ed0b07e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[(text() = 'Head OfficeBalikpapanJakartaLombok OfficeMalangmondaytester juaraCOBAPapuaSangataMalangZimbabwe' or . = 'Head OfficeBalikpapanJakartaLombok OfficeMalangmondaytester juaraCOBAPapuaSangataMalangZimbabwe')]</value>
+      <webElementGuid>548fe039-652d-437e-a747-d8342098fe7f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

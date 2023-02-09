@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Ilham Sagita Putra  Andina  Ahmad Fa_d80dcb</name>
+   <tag></tag>
+   <elementGuidId>5439ec7f-f9d7-4c4f-90cf-93711c545835</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>select.input-select</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__layout']/div/div[2]/div/div/div[4]/div/div[2]/div/div/div/select</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>12ad9d8b-e18c-44ea-8ebe-e5e3fd52039b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>input-select</value>
+      <webElementGuid>da374168-bf6a-4181-8da0-7c1fa8e31552</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Ilham Sagita Putra  Andina  Ahmad Fadi  Budi Utomo  ILHAM    Monica Tifani Zahara  test 2  An Apple  tes  Zahara PCIP </value>
+      <webElementGuid>d553236d-4fa3-436d-8dcd-f2b30f450143</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[@class=&quot;font-mont bg-gry-light min-h-screen&quot;]/div[2]/div[@class=&quot;container mx-auto p-4&quot;]/div[@class=&quot;px-4 h-screen&quot;]/div[4]/div[@class=&quot;vm--container scrollable&quot;]/div[@class=&quot;vm--modal&quot;]/div[@class=&quot;py-4 px-8&quot;]/div[@class=&quot;mt-3&quot;]/div[@class=&quot;relative h-10&quot;]/select[@class=&quot;input-select&quot;]</value>
+      <webElementGuid>040e649a-56c1-4cea-9dfc-8ac4f1823c1a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/div[2]/div/div/div[4]/div/div[2]/div/div/div/select</value>
+      <webElementGuid>df46ca1e-b333-4656-9576-7c3f06d168c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select PIC *'])[1]/following::select[1]</value>
+      <webElementGuid>3c4f0f23-998f-408c-90a1-d35644a8b98b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select PIC'])[6]/following::select[1]</value>
+      <webElementGuid>03de6b31-c7b5-4f8f-9358-4bd91a7b52f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/preceding::select[1]</value>
+      <webElementGuid>59c95587-1e2c-4213-903a-1d2fd7d1444c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save'])[1]/preceding::select[1]</value>
+      <webElementGuid>5177eacf-a175-409e-b0c4-190661df51be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/select</value>
+      <webElementGuid>3f37ca11-fb0c-405c-b2c6-65dc940424e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[(text() = ' Ilham Sagita Putra  Andina  Ahmad Fadi  Budi Utomo  ILHAM    Monica Tifani Zahara  test 2  An Apple  tes  Zahara PCIP ' or . = ' Ilham Sagita Putra  Andina  Ahmad Fadi  Budi Utomo  ILHAM    Monica Tifani Zahara  test 2  An Apple  tes  Zahara PCIP ')]</value>
+      <webElementGuid>bdab70c1-bd1a-41f5-a6c5-4964162411b1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

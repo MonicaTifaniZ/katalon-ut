@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>textarea_Project Name_input-textarea h-36 (1)</name>
+   <tag></tag>
+   <elementGuidId>83a502a3-648a-420a-b634-7da8d674eaf1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>textarea.input-textarea.h-36</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__layout']/div/div[2]/div/div/div/div[2]/div/div/div[2]/div/div[2]/textarea</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>textarea</value>
+      <webElementGuid>801c8f17-7d9a-4d20-9a79-d5e73b6a12dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>input-textarea h-36</value>
+      <webElementGuid>c43739d5-2d33-4a02-ab2b-685035612d97</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[@class=&quot;font-mont bg-gry-light min-h-screen&quot;]/div[2]/div[@class=&quot;container mx-auto p-4&quot;]/div[@class=&quot;mt-5&quot;]/div[1]/div[@class=&quot;w-full bg-white rounded-b-lg border-t-2 border-ylw&quot;]/div[@class=&quot;p-6&quot;]/div[1]/div[@class=&quot;flex flex-row gap-8&quot;]/div[@class=&quot;w-1/2&quot;]/div[@class=&quot;mt-3&quot;]/textarea[@class=&quot;input-textarea h-36&quot;]</value>
+      <webElementGuid>bcd101a2-d9e6-4ae5-9d89-a3741e475445</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/div[2]/div/div/div/div[2]/div/div/div[2]/div/div[2]/textarea</value>
+      <webElementGuid>31e3614d-4943-43ed-88ce-abbb1fb7cb2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//textarea</value>
+      <webElementGuid>91b44eaf-857e-4c0b-8f34-16b2f48eeac4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

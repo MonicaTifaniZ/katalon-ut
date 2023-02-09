@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_ElectricalHydrantKonsultanOfficeRene_fb2736</name>
+   <tag></tag>
+   <elementGuidId>9865e50e-148e-4018-890b-5f3a175ded76</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__layout']/div/div[2]/div/div/div/div[2]/div/div/div[2]/div/div[4]/div/div/select</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>d8bf839d-824b-4dc0-aa00-492b83d9e4ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>input-select</value>
+      <webElementGuid>8ec4501c-adaf-4c83-85f5-59f0b6fda05c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ElectricalHydrantKonsultanOfficeRenewable EnergySupporting &amp; FacilityWarehouseWorkshopQA TypeWork Space</value>
+      <webElementGuid>fd505ae4-b588-4c9f-b736-6bdd34c2273f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[@class=&quot;font-mont bg-gry-light min-h-screen&quot;]/div[2]/div[@class=&quot;container mx-auto p-4&quot;]/div[@class=&quot;mt-5&quot;]/div[1]/div[@class=&quot;w-full bg-white rounded-b-lg border-t-2 border-ylw&quot;]/div[@class=&quot;p-6&quot;]/div[1]/div[@class=&quot;flex flex-row gap-8&quot;]/div[@class=&quot;w-1/2&quot;]/div[@class=&quot;flex flex-row mt-3 gap-3&quot;]/div[@class=&quot;w-1/2&quot;]/div[@class=&quot;relative h-10&quot;]/select[@class=&quot;input-select&quot;]</value>
+      <webElementGuid>d8e88fd7-96b1-463e-a7fe-13e573210114</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/div[2]/div/div/div/div[2]/div/div/div[2]/div/div[4]/div/div/select</value>
+      <webElementGuid>65114cdc-7924-47c9-86f2-cde141091f0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Type Of Project'])[1]/following::select[1]</value>
+      <webElementGuid>a6ea8665-7eb9-4f98-9ab8-f128059a1c0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Project Status'])[1]/following::select[2]</value>
+      <webElementGuid>527f9c83-3377-4cc8-a76b-049bb7139be8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Category'])[1]/preceding::select[1]</value>
+      <webElementGuid>8b2a7d5f-6507-4b22-a6df-1993dfe098d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Estimated Amount of Project'])[1]/preceding::select[2]</value>
+      <webElementGuid>fc6aa8fa-7d80-4837-8d58-48ac2a771546</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/select</value>
+      <webElementGuid>1e57cf64-67c6-430a-a6ea-89113a785ea1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[(text() = 'ElectricalHydrantKonsultanOfficeRenewable EnergySupporting &amp; FacilityWarehouseWorkshopQA TypeWork Space' or . = 'ElectricalHydrantKonsultanOfficeRenewable EnergySupporting &amp; FacilityWarehouseWorkshopQA TypeWork Space')]</value>
+      <webElementGuid>eef29233-6279-4157-9e0f-41aebb6279ac</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

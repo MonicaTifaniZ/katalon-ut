@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Save</name>
+   <tag></tag>
+   <elementGuidId>e7fca5fc-433f-4fb4-9279-c427054a8bc3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.w-full.inline-flex.justify-center.py-2.px-4.border.border-transparent.text-sm.text-white.font-semibold.rounded-md.bg-ylw</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__layout']/div/div[2]/div/div/div[4]/div/div[2]/div/div[2]/button[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>b9fcd94e-57fe-4be2-8a2c-50bc579cbb81</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-full inline-flex justify-center py-2 px-4 border border-transparent text-sm text-white font-semibold rounded-md bg-ylw</value>
+      <webElementGuid>2dcc9009-aceb-47b1-a3c9-a562b1df62d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+          Save
+        </value>
+      <webElementGuid>cce65247-600a-4fa0-ad0e-f4f7f443136b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[@class=&quot;font-mont bg-gry-light min-h-screen&quot;]/div[2]/div[@class=&quot;container mx-auto p-4&quot;]/div[@class=&quot;px-4 h-screen&quot;]/div[4]/div[@class=&quot;vm--container scrollable&quot;]/div[@class=&quot;vm--modal&quot;]/div[@class=&quot;py-4 px-8&quot;]/div[@class=&quot;flex my-6 gap-2&quot;]/button[@class=&quot;w-full inline-flex justify-center py-2 px-4 border border-transparent text-sm text-white font-semibold rounded-md bg-ylw&quot;]</value>
+      <webElementGuid>7ec2281e-bfe2-4f98-b650-9bc56a5dc2ca</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/div[2]/div/div/div[4]/div/div[2]/div/div[2]/button[2]</value>
+      <webElementGuid>bf3ef17f-2b3a-4066-845c-61de2741ad90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::button[1]</value>
+      <webElementGuid>a4278fc9-aef2-4f22-a456-a620d0550bdc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select PIC *'])[1]/following::button[2]</value>
+      <webElementGuid>2cc8cca6-2800-4578-8d68-6549f71c4bed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Save']/parent::*</value>
+      <webElementGuid>b94a990d-fb6e-401b-91b1-dd5e29fa9454</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/button[2]</value>
+      <webElementGuid>9c44439b-0c40-41c4-bb66-7bd3962d200c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = '
+          Save
+        ' or . = '
+          Save
+        ')]</value>
+      <webElementGuid>f1e8277b-7d35-43a3-98f2-f6b71170324c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

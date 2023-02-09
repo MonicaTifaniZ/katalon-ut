@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Cancel</name>
+   <tag></tag>
+   <elementGuidId>0b940adc-f1a3-40fe-b1fe-120ce3ef919a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.w-full.inline-flex.justify-center.py-2.px-4.border.border-transparent.text-sm.text-ylw.font-semibold.rounded-md.border-ylw</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__layout']/div/div[2]/div/div/div[6]/div/div[2]/div[2]/div/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>00e083dc-1d59-475b-a89f-0a29b63942ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-full inline-flex justify-center py-2 px-4 border border-transparent text-sm text-ylw font-semibold rounded-md border-ylw</value>
+      <webElementGuid>aa568c27-de66-4709-92fe-3a00da8abf11</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cancel</value>
+      <webElementGuid>19dcf586-1305-4e7d-8209-31987a4c0d7a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[@class=&quot;font-mont bg-gry-light min-h-screen&quot;]/div[2]/div[@class=&quot;container mx-auto p-4&quot;]/div[@class=&quot;px-4 h-screen&quot;]/div[6]/div[@class=&quot;vm--container&quot;]/div[@class=&quot;vm--modal&quot;]/div[@class=&quot;text-blk px-4&quot;]/div[@class=&quot;flex justify-between gap-2 my-5&quot;]/button[@class=&quot;w-full inline-flex justify-center py-2 px-4 border border-transparent text-sm text-ylw font-semibold rounded-md border-ylw&quot;]</value>
+      <webElementGuid>3681ab4f-d1cc-49d7-9fa3-20fcd7b9b87c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/div[2]/div/div/div[6]/div/div[2]/div[2]/div/button</value>
+      <webElementGuid>0a8b32d9-6abd-40b6-9cec-9360141499ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Perpage'])[1]/following::button[8]</value>
+      <webElementGuid>68e95282-ec1b-40e6-80f0-d0d742ca3d4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel Project'])[5]/following::button[8]</value>
+      <webElementGuid>a2fa7623-1f80-402d-8ea1-0cd4dc47349c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Oke'])[1]/preceding::button[1]</value>
+      <webElementGuid>e691bc30-9c9a-4452-a273-e9d06d47aaaa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Cancel']/parent::*</value>
+      <webElementGuid>b50ea80c-d0f3-48b6-8e6c-0185c2f8b4f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/button</value>
+      <webElementGuid>0b92626d-6d34-49bb-b0c8-3d4c3756410d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Cancel' or . = 'Cancel')]</value>
+      <webElementGuid>4a151a4e-bd26-4702-a031-bc3e41624a23</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

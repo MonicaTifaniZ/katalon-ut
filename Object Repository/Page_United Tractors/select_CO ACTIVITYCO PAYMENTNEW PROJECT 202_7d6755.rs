@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_CO ACTIVITYCO PAYMENTNEW PROJECT 202_7d6755</name>
+   <tag></tag>
+   <elementGuidId>aabbf2ff-7f83-47ea-af30-7a6bafde6b27</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__layout']/div/div[2]/div/div/div/div[2]/div/div/div[2]/div/div[3]/div/select</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>88b83288-f3c8-4d0d-872b-839040c42daa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>input-select</value>
+      <webElementGuid>af2a7da9-ef40-44fe-85a7-31e05c41704c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>CO ACTIVITYCO PAYMENTNEW PROJECT 2023QA Stats</value>
+      <webElementGuid>60441407-7465-4b9e-9340-9d85e2ca2372</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[@class=&quot;font-mont bg-gry-light min-h-screen&quot;]/div[2]/div[@class=&quot;container mx-auto p-4&quot;]/div[@class=&quot;mt-5&quot;]/div[1]/div[@class=&quot;w-full bg-white rounded-b-lg border-t-2 border-ylw&quot;]/div[@class=&quot;p-6&quot;]/div[1]/div[@class=&quot;flex flex-row gap-8&quot;]/div[@class=&quot;w-1/2&quot;]/div[@class=&quot;mt-3&quot;]/div[@class=&quot;relative h-10&quot;]/select[@class=&quot;input-select&quot;]</value>
+      <webElementGuid>27379114-cb05-40ae-ac1c-f87355f5c626</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/div[2]/div/div/div/div[2]/div/div/div[2]/div/div[3]/div/select</value>
+      <webElementGuid>e5879336-91b2-48af-a2e6-0e7fca04587a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Project Status'])[1]/following::select[1]</value>
+      <webElementGuid>49fb7c3a-fd0c-4425-b28d-65fd628a066b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Project Name'])[1]/following::select[1]</value>
+      <webElementGuid>b96a9033-61d9-452f-8f08-1897c5c256c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Type Of Project'])[1]/preceding::select[1]</value>
+      <webElementGuid>7ed7a13a-21e6-483d-a6d3-6b747b256d90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Category'])[1]/preceding::select[2]</value>
+      <webElementGuid>0031f421-052d-4819-b1de-6a066feb82d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/select</value>
+      <webElementGuid>d6818a06-85f3-4664-8bef-b2f2bfb0969c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[(text() = 'CO ACTIVITYCO PAYMENTNEW PROJECT 2023QA Stats' or . = 'CO ACTIVITYCO PAYMENTNEW PROJECT 2023QA Stats')]</value>
+      <webElementGuid>3f57ab72-3cca-48aa-b5be-75cb2a5e253a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

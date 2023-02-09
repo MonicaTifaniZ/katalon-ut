@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Remember Me_h-4 w-4 inline-block mr-2 _8864da (2)</name>
+   <tag></tag>
+   <elementGuidId>6264d295-7bc3-414f-8a59-25d4b82f4e66</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.h-4.w-4.inline-block.mr-2.rounded-full.border.border-gry</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__layout']/div/div/div/div/div[2]/div/div/div/div[2]/div/label/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b4a29b33-c5fe-49b8-8784-a8779abbd8ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>h-4 w-4 inline-block mr-2 rounded-full border border-gry</value>
+      <webElementGuid>2ca15fd8-2c0a-47de-99f1-ca6286969ac1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[@class=&quot;font-mont&quot;]/div[@class=&quot;bg-white&quot;]/div[1]/div[@class=&quot;flex flex-row relative&quot;]/div[@class=&quot;w-2/5 flex flex-col items-center justify-center&quot;]/div[1]/div[@class=&quot;w-96&quot;]/div[@class=&quot;w-full&quot;]/div[@class=&quot;flex justify-between px-6 capitalize&quot;]/div[@class=&quot;flex items-center&quot;]/label[@class=&quot;flex items-center text-sm text-gray-700 cursor-pointer&quot;]/span[@class=&quot;h-4 w-4 inline-block mr-2 rounded-full border border-gry&quot;]</value>
+      <webElementGuid>d732feba-ca91-48a3-a5b4-91cf0c2b45d0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/div/div/div/div[2]/div/div/div/div[2]/div/label/span</value>
+      <webElementGuid>5f520cb4-89a3-4229-ad48-9e0b96b2c940</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span</value>
+      <webElementGuid>0911c27a-5799-4ac2-87d2-2da8338a2291</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

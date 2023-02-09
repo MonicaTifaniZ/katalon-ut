@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_CO PAYMENTFSHYDRANTNEW PROJECT 2023S_6c3a95 (1)</name>
+   <tag></tag>
+   <elementGuidId>e4bd6c71-81d6-42d9-93ee-e2bb88cc768f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__layout']/div/div[2]/div/div/div/div[2]/div/div/div[2]/div/div[4]/div[2]/div/select</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>dc9b8b42-7acb-4caa-960d-25418caa3621</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>input-select</value>
+      <webElementGuid>872a97e2-e6df-499b-a068-940c3ac40212</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>CO PAYMENTFSHYDRANTNEW PROJECT 2023SOLAR CELL 2023QA Category</value>
+      <webElementGuid>56b5349b-bee4-4095-83f5-7aed53feacd0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[@class=&quot;font-mont bg-gry-light min-h-screen&quot;]/div[2]/div[@class=&quot;container mx-auto p-4&quot;]/div[@class=&quot;mt-5&quot;]/div[1]/div[@class=&quot;w-full bg-white rounded-b-lg border-t-2 border-ylw&quot;]/div[@class=&quot;p-6&quot;]/div[1]/div[@class=&quot;flex flex-row gap-8&quot;]/div[@class=&quot;w-1/2&quot;]/div[@class=&quot;flex flex-row mt-3 gap-3&quot;]/div[@class=&quot;w-1/2&quot;]/div[@class=&quot;relative h-10&quot;]/select[@class=&quot;input-select&quot;]</value>
+      <webElementGuid>3b14ca1d-2ad6-4d34-bf35-7ad33a822a2a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/div[2]/div/div/div/div[2]/div/div/div[2]/div/div[4]/div[2]/div/select</value>
+      <webElementGuid>7e86e829-d54b-4808-b466-ad4a1d07cfad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Category'])[1]/following::select[1]</value>
+      <webElementGuid>8b862d8c-936b-4160-9812-5bca7143b1be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Type Of Project'])[1]/following::select[2]</value>
+      <webElementGuid>1d303a32-6304-4476-ba94-53ebb4f87501</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Budget'])[1]/preceding::select[1]</value>
+      <webElementGuid>da820ea9-2a22-4367-92c9-9dc8503b42ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp.'])[1]/preceding::select[1]</value>
+      <webElementGuid>e08112c2-57d4-4d5a-92ad-39a25026ba25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/select</value>
+      <webElementGuid>f17a8d8a-4964-435d-91bc-5aa50ea829b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[(text() = 'CO PAYMENTFSHYDRANTNEW PROJECT 2023SOLAR CELL 2023QA Category' or . = 'CO PAYMENTFSHYDRANTNEW PROJECT 2023SOLAR CELL 2023QA Category')]</value>
+      <webElementGuid>06cbcf87-41c2-4a5b-9daa-f527e54403cc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
